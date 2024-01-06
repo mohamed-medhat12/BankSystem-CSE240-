@@ -1,0 +1,4 @@
+100010108 200200 admin active t
+100018027 300300 employee active t
+100004377 123456 customer active t
+100006928 600600 customer active t

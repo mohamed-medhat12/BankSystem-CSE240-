@@ -1,0 +1,23 @@
+﻿  Bank system.cpp
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(298,35): warning C4244: 'argument': conversion from 'double' to 'const _Elem', possible loss of data
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(298,35): warning C4244:         with
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(298,35): warning C4244:         [
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(298,35): warning C4244:             _Elem=char
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(298,35): warning C4244:         ]
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(440,35): warning C4244: 'argument': conversion from 'double' to 'const _Elem', possible loss of data
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(440,35): warning C4244:         with
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(440,35): warning C4244:         [
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(440,35): warning C4244:             _Elem=char
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(440,35): warning C4244:         ]
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(704,35): warning C4244: 'argument': conversion from 'double' to 'const _Elem', possible loss of data
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(704,35): warning C4244:         with
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(704,35): warning C4244:         [
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(704,35): warning C4244:             _Elem=char
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(704,35): warning C4244:         ]
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(972,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(1178,29): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(1493,29): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(2007,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(2213,29): warning C4834: discarding return value of function with [[nodiscard]] attribute
+C:\Users\user\Desktop\Bank system\Bank system\Bank system.cpp(2367,21): warning C4834: discarding return value of function with [[nodiscard]] attribute
+  Bank system.vcxproj -> C:\Users\user\Desktop\Bank system\x64\Debug\Bank system.exe
